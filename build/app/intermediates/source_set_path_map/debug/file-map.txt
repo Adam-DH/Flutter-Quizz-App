@@ -1,0 +1,13 @@
+com.example.quiz_app-core-1.6.0-0 C:\Users\ademd\.gradle\caches\transforms-3\0cd20f40028a92b7736d4de7add39af8\transformed\core-1.6.0\res
+com.example.quiz_app-jetified-window-1.0.0-beta04-1 C:\Users\ademd\.gradle\caches\transforms-3\7ccee4fca8aca15a43e238bc1469d858\transformed\jetified-window-1.0.0-beta04\res
+com.example.quiz_app-jetified-annotation-experimental-1.1.0-2 C:\Users\ademd\.gradle\caches\transforms-3\99779c90f90a350e373f59c93c89508e\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.quiz_app-jetified-window-java-1.0.0-beta04-3 C:\Users\ademd\.gradle\caches\transforms-3\ff013451cbd13f34c8a0fe0fc85b5c91\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.quiz_app-debug-4 C:\Users\ademd\OneDrive\Bureau\les etudes\PFA\Quiz-App-main\android\app\src\debug\res
+com.example.quiz_app-main-5 C:\Users\ademd\OneDrive\Bureau\les etudes\PFA\Quiz-App-main\android\app\src\main\res
+com.example.quiz_app-pngs-6 C:\Users\ademd\OneDrive\Bureau\les etudes\PFA\Quiz-App-main\build\app\generated\res\pngs\debug
+com.example.quiz_app-resValues-7 C:\Users\ademd\OneDrive\Bureau\les etudes\PFA\Quiz-App-main\build\app\generated\res\resValues\debug
+com.example.quiz_app-rs-8 C:\Users\ademd\OneDrive\Bureau\les etudes\PFA\Quiz-App-main\build\app\generated\res\rs\debug
+com.example.quiz_app-mergeDebugResources-9 C:\Users\ademd\OneDrive\Bureau\les etudes\PFA\Quiz-App-main\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.quiz_app-mergeDebugResources-10 C:\Users\ademd\OneDrive\Bureau\les etudes\PFA\Quiz-App-main\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.quiz_app-merged_res-11 C:\Users\ademd\OneDrive\Bureau\les etudes\PFA\Quiz-App-main\build\app\intermediates\merged_res\debug
+com.example.quiz_app-packaged_res-12 C:\Users\ademd\OneDrive\Bureau\les etudes\PFA\Quiz-App-main\build\sqflite\intermediates\packaged_res\debug

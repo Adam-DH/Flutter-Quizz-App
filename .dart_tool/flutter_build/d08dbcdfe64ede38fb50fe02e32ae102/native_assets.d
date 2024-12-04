@@ -1,0 +1,1 @@
+ C:\\Users\\ademd\\Downloads\\Quiz-App-main\\Quiz-App-main\\.dart_tool\\flutter_build\\d08dbcdfe64ede38fb50fe02e32ae102\\native_assets.yaml: 

@@ -1,0 +1,1 @@
+ C:\\Users\\ademd\\OneDrive\\Bureau\\les\ etudes\\PFA\\Quiz-App-main\\.dart_tool\\flutter_build\\c6eae24eaca68b7058ff720ac7e8e7e3\\native_assets.yaml: 
